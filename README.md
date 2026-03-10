@@ -1,7 +1,7 @@
 # LECTURE01-Control-Fundamentals-for-Power-Electronics
 
 
-This lecture summarizes the basic topics students should know for controllling Voltage Source Inverters (VSI). 
+This lecture summarizes the basic topics students should know for controllling Voltage Source Inverters (VSI). <br>
 [Lecture01](https://github.com/IEE3311-EDP-ERRI/LECTURE01-Control-Fundamentals-for-Power-Electronics/blob/main/1_Fundamentals_on_Power_Electronics.pdf)
 
 The following documents shoud be studied by the student before the lecture. 
